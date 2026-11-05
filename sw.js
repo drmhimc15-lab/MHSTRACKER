@@ -1,4 +1,4 @@
-const CACHE_NAME = "mhs-tracker-cache-v2";
+const CACHE_NAME = "mhs-tracker-cache-v3";
 const PRECACHE_URLS = [
   "./", "./index.html", "./manifest.json",
   "https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"
