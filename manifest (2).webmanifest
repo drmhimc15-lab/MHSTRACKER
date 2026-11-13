@@ -1,0 +1,17 @@
+{
+  "name": "MHS Tracker",
+  "short_name": "MHS Tracker",
+  "description": "Personal finance tracker — income, expenses, budgets and stock.",
+  "id": "/mhs-tracker-app",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1F5C4A",
+  "theme_color": "#1F5C4A",
+  "lang": "en",
+  "icons": [
+    { "src": "icon-192-2.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512-2.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
